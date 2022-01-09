@@ -1,0 +1,1 @@
+import { applyAttributes, createSVGElement, mount } from 
