@@ -1,0 +1,2 @@
+import { equal } from './utils';
+

@@ -1,0 +1,3 @@
+import { createThreshold } from './threshold';
+
+export funciton createQuantile({ domain, range, ...rest})
